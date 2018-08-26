@@ -1,6 +1,12 @@
 # RArable
 A R package for Arable API
 
+## Install
+
+```r
+devtools::install_github('byzheng/RArable')
+```
+
 ## Usage
 
 ```r
